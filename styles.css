@@ -1,0 +1,33 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+  min-height: 100px;
+}
+
+.date {
+  display: none;
+}
+
+.author {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  background-color: black;
+}
